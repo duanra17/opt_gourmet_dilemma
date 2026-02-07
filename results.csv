@@ -1,0 +1,16 @@
+,food_names,"optimal portions alpha=0.5, logarithmic","optimal portions alpha=1, logarithmic","optimal portions alpha=1, linear","optimal portions alpha=2.0, logarithmic"
+0,Oatmeal,0.7,0.8,0,0.8
+1,Boiled egg,1.5,1.3,0,1.0
+2,Strawberry,4.7,4.8,11.4,5.0
+3,Apple,2.0,2.0,0,1.9
+4,Scrambled egg,0.3,0.2,0,0.2
+5,Bacon,0,0,0,0
+6,Sausage,0,0,0,0
+7,Pancake with syrup,0.2,0.2,0,0.3
+8,French toast,0,0,0,0
+9,Croissant,0,0,0,0
+10,Plain yogurt,0.6,0.5,0,0.5
+11,Strawberry jam,0.4,0.3,0,0.3
+12,Slice of cheese,0,0,0,0
+13,Smoked salmon,1.0,1.1,2.1,1.3
+14,Donut,0,0,0,0

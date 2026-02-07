@@ -1,0 +1,16 @@
+food_names,r,u,w,p,f
+Oatmeal,3,6,0.25,0.1,0.4
+Boiled egg,2,7,0.05,0.1,0.3
+Strawberry,5,9,0.1,0.05,0.6
+Apple,2,6,0.15,0.05,0.4
+Scrambled egg,3,7,0.15,0.2,0.7
+Bacon,5,9,0.05,0.5,0.8
+Sausage,4,8,0.08,0.4,0.9
+Pancake with syrup,6,9,0.2,0.3,1.2
+French toast,4,8,0.15,0.3,1.2
+Croissant,7,8,0.1,0.6,1.5
+Plain yogurt,2,5,0.15,0.1,0.45
+Strawberry jam,3,7,0.02,0.2,0.12
+Slice of cheese,3,6,0.03,0.4,0.36
+Smoked salmon,8,8,0.05,0.2,2.5
+Donut,4,9,0.2,0.8,2
